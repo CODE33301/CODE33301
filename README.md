@@ -6,6 +6,6 @@
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 | **Languages** | **Softwares and Tools** | **Operating Systems** |
 | --- | --- | --- |
-| [![Languages](https://skillicons.dev/icons?i=python,bash,markdown&theme=light)](https://skillicons.dev) | [![Softwares and Tools](https://skillicons.dev/icons?i=git,github,vscode,sublime,pycharm,emacs&theme=light)](https://skillicons.dev) | [![Operating Systems](https://skillicons.dev/icons?i=arch,debian,redhat&theme=light)](https://skillicons.dev) |
+| ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,bash,markdown,asm) | [![Softwares and Tools](https://skillicons.dev/icons?i=git,github,vscode,sublime,pycharm,emacs&theme=light)](https://skillicons.dev) | [![Operating Systems](https://skillicons.dev/icons?i=arch,debian,redhat&theme=light)](https://skillicons.dev) |
 
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=code33301&theme=cobalt&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact&card_width=1000&custom_title=Used+Languages"/>
